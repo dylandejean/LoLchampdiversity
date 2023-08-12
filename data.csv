@@ -1,0 +1,71 @@
+Player,ChampsPerGame,Region,Role,Team
+Fudge,0.666666667,North America,Top,Cloud 9
+Blaber,0.833333333,North America,Jungle,Cloud 9
+Diplex,0.833333333,North America,Mid,Cloud 9
+Berserker,1,North America,Bot,Cloud 9
+Zven,1,North America,Support,Cloud 9
+Wunder,0.666666667,EU,Top,Fnatic
+Razork,0.5,EU,Jungle,Fnatic
+Humanoid,0.5,EU,Mid,Fnatic
+Upset,0.5,EU,Bot,Fnatic
+Hylissang,0.666666667,EU,Support,Fnatic
+Zeus,1,Korea,Top,T1
+Oner,0.5,Korea,Jungle,T1
+Faker,0.666666667,Korea,Mid,T1
+Gumayusi,0.833333333,Korea,Bot,T1
+Keria,0.833333333,Korea,Support,T1
+Flandre,0.833333333,China,Top,EDward Gaming
+Jiejie,1,China,Jungle,EDward Gaming
+Scout,0.666666667,China,Mid,EDward Gaming
+Viper,0.666666667,China,Bot,EDward Gaming
+Meiko,0.5,China,Support,EDward Gaming
+BrokenBlade,0.666666667,EU,Top,G2
+Jankos,0.833333333,EU,Jungle,G2
+caPs,0.833333333,EU,Mid,G2
+Flakked,0.833333333,EU,Bot,G2
+Targamas,0.833333333,EU,Support,G2
+Nuguri,1,Korea,Top,DAMWON Gaming
+Canyon,0.833333333,Korea,Jungle,DAMWON Gaming
+ShowMaker,0.666666667,Korea,Mid,DAMWON Gaming
+deokdam,0.833333333,Korea,Bot,DAMWON Gaming
+Kellin,0.666666667,Korea,Support,DAMWON Gaming
+369,0.833333333,China,Top,JD Gaming
+Kanavi,0.666666667,China,Jungle,JD Gaming
+Yagao,0.5,China,Mid,JD Gaming
+Hope,0.833333333,China,Bot,JD Gaming
+Missing,0.833333333,China,Support,JD Gaming
+Impact,0.833333333,North America,Top,Evil Geniuses
+Inspired,0.833333333,North America,Jungle,Evil Geniuses
+jojopyun,0.666666667,North America,Mid,Evil Geniuses
+Kaori,0.666666667,North America,Bot,Evil Geniuses
+Vulcan,0.666666667,North America,Support,Evil Geniuses
+Odoamne,0.666666667,EU,Top,Rouge
+Malrang,0.666666667,EU,Jungle,Rouge
+Larssen,0.666666667,EU,Mid,Rouge
+Comp,0.666666667,EU,Bot,Rouge
+Trymbi,0.833333333,EU,Support,Rouge
+Kingen,0.833333333,Korea,Top,DRX
+Pyosik,0.833333333,Korea,Jungle,DRX
+Zeka,0.5,Korea,Mid,DRX
+Deft,0.666666667,Korea,Bot,DRX
+BeryL,0.833333333,Korea,Support,DRX
+Wayward,0.833333333,China,Top,Top Esports
+Tian,1,China,Jungle,Top Esports
+knight,0.666666667,China,Mid,Top Esports
+JackeyLove,0.666666667,China,Bot,Top Esports
+Mark,0.833333333,China,Support,Top Esports
+Ssumday,0.666666667,North America,Top,100 Thieves
+Closer,0.833333333,North America,Jungle,100 Thieves
+Abbedagge,0.666666667,North America,Mid,100 Thieves
+FBI,0.666666667,North America,Bot,100 Thieves
+huhi,0.666666667,North America,Support,100 Thieves
+Doran,1,Korea,Top,Gen.G
+Peanut,0.666666667,Korea,Jungle,Gen.G
+Chovy,0.666666667,Korea,Mid,Gen.G
+Ruler,0.666666667,Korea,Bot,Gen.G
+Lehends,0.666666667,Korea,Support,Gen.G
+Breathe,0.666666667,China,Top,Royal Never Give Up
+Wei,0.666666667,China,Jungle,Royal Never Give Up
+Xiaohu,0.5,China,Mid,Royal Never Give Up
+GALA,0.833333333,China,Bot,Royal Never Give Up
+Ming,1,China,Support,Royal Never Give Up
