@@ -1,0 +1,2 @@
+# Professional League of Legends Champion Diversity
+This report takes data from a professional-level League of Legends tournament from 2022 to try to identify trends in geographical regions and player roles in the number of unique champions picked throughout the tournament. The report uses ANOVA methods to achieve this. Included in this repository is a data file, a PDF report, and the .RMD file contains the code used to create the report.
